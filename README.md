@@ -1,8 +1,8 @@
-# BloxdHop 游戏站
+# TodayWordle 游戏站
 
 ## 项目概述
 
-BloxdHop 游戏站是一个在线游戏平台，允许用户访问、玩耍和管理各种HTML5游戏。该平台采用现代化设计，提供流畅的游戏体验和用户友好的界面。
+TodayWordle 游戏站是一个在线游戏平台，允许用户访问、玩耍和管理各种HTML5游戏。该平台采用现代化设计，提供流畅的游戏体验和用户友好的界面。
 
 ## 技术架构
 
@@ -44,7 +44,7 @@ BloxdHop 游戏站是一个在线游戏平台，允许用户访问、玩耍和�
 ## 文件结构
 
 ```
-bloxdhop_game_hub/
+TodayWordle_game_hub/
 │
 ├── frontend/
 │   ├── index.html          # 主页面
